@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Kapunka - Luxury Experience",
-  description: "Discover the essence of luxury with Kapunka",
+  title: "Kapunka - Luxury Skincare",
+  description: "Premium luxury skincare products crafted with the finest ingredients",
 };
 
 export default function RootLayout({
