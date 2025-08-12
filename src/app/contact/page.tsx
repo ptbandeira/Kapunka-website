@@ -131,7 +131,7 @@ export default function ContactPage() {
               <div className="margin-bottom-medium">
                 <label className="aesop-caption text-luxury-gray margin-bottom-small">Message</label>
                 <textarea 
-                  rows="6"
+                  rows={6}
                   className="width-full padding-medium border-luxury-light-gray border-1px"
                   style={{
                     width: '100%',
